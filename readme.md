@@ -13,12 +13,10 @@ It uses advanced text preprocessing techniques and TF-IDF vectorization to make 
 - [🔍 Overview](#-overview)
 - [🧠 Model Pipeline](#-model-pipeline)
 - [📂 Project Structure](#-project-structure)
-- [⚙️ Setup Instructions](#️-setup-instructions)
 - [💡 Sample Predictions](#-sample-predictions)
 - [📈 Results & Evaluation](#-results--evaluation)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [👨‍💻 Author](#-author)
-- [📄 License](#-license)
 
 ---
 
