@@ -12,7 +12,6 @@ It uses advanced text preprocessing techniques and TF-IDF vectorization to make 
 
 - [🔍 Overview](#-overview)
 - [🧠 Model Pipeline](#-model-pipeline)
-- [📂 Project Structure](#-project-structure)
 - [💡 Sample Predictions](#-sample-predictions)
 - [📈 Results & Evaluation](#-results--evaluation)
 - [🛠️ Tech Stack](#️-tech-stack)
@@ -36,20 +35,6 @@ This project classifies incoming text messages as either **Spam** or **Not Spam 
 5. **Vectorization** using **TF-IDF**
 6. **Model Training** using **SVM Classifier**
 7. **Deployment** using **Streamlit**
-
----
-
-## 📂 Project Structure
-
-SMS_Spam_Detection/
-│
-├── app.py # Streamlit app interface
-├── preprocessing.py # All NLP functions (cleaning, stemming, etc.)
-├── train_model.py # Model training, evaluation and serialization
-├── tfidf_vectorizer.pkl # Saved TF-IDF vectorizer
-├── spam_classifier.pkl # Trained SVM model
-├── requirements.txt # Project dependencies
-└── README.md # Documentation
 
 💡 Sample Predictions
 Input Message	Prediction
